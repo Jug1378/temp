@@ -20,10 +20,10 @@ double getPi(int n)
 	return sum;
 }
 
-//int main()
-//{
-//	cout << "Aproximation of Pi" << endl;
-//	cout << getPi(10000) << endl;
-//	system("Pause");
-//	return 0;
-//}
+int main()
+{
+	cout << "Aproximation of Pi" << endl;
+	cout << getPi(10000) << endl;
+	system("Pause");
+	return 0;
+}
