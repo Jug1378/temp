@@ -14,10 +14,10 @@ double CalcPi(int n)
 	return sum * 4;
 }
 
-//int main()
-//{
-//	cout << "Aproximation of Pi" << endl;
-//	cout << CalcPi(10000) << endl;
-//	system("Pause");
-//	return 0;
-//}
+int main()
+{
+	cout << "Aproximation of Pi" << endl;
+	cout << CalcPi(10000) << endl;
+	system("Pause");
+	return 0;
+}
